@@ -1,0 +1,13 @@
+# Windows AI CLI Recovery
+
+> Diagnose and recover Codex, Claude Code, and npm AI CLI failures on Windows.
+
+## Primary instructions
+
+- SKILL.md: https://github.com/Fable-Forge/windows-ai-cli-recovery/blob/main/SKILL.md
+- Installation: https://github.com/Fable-Forge/windows-ai-cli-recovery/blob/main/docs/install.md
+- Update: https://github.com/Fable-Forge/windows-ai-cli-recovery/blob/main/docs/update.md
+
+## Install
+
+`npx skills add Fable-Forge/windows-ai-cli-recovery`

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows AI CLI Recovery"
+  short_description: "Recover Codex and Claude CLI issues on Windows"
+  default_prompt: "Use this skill to diagnose and recover Windows Codex or Claude CLI command, PATH, proxy, PowerShell execution policy, and reconnect problems with concrete checks before edits."
