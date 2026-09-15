@@ -6,12 +6,17 @@
 
 **Diagnose and recover Codex, Claude Code, and npm AI CLI failures on Windows.**
 
-> 诊断并恢复 Windows 上 Codex、Claude Code 与 npm AI CLI 的安装和连接问题。
+<p>诊断并恢复 Windows 上 Codex、Claude Code 与 npm AI CLI 的安装和连接问题。</p>
 
 <p>
   <a href="https://github.com/Fable-Forge/windows-ai-cli-recovery/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0969da"></a>
   <img alt="Maturity: beta" src="https://img.shields.io/badge/maturity-beta-8250df">
   <img alt="Agents: Codex and Claude Code" src="https://img.shields.io/badge/agents-Codex_%C2%B7_Claude_Code-1f883d">
+  <a href="https://github.com/Fable-Forge/windows-ai-cli-recovery/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Fable-Forge/windows-ai-cli-recovery?style=social"></a>
+</p>
+
+<p>
+  <strong>If this skill helps you ship better work, a ⭐ Star is free and helps others find it.</strong>
 </p>
 
 </div>
